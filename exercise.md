@@ -57,7 +57,7 @@ A good rule of thumb:
 - Skilled trades and on‑site physical work (until robots catch up).  
 - Jobs requiring domain knowledge + judgement + accountability (software, product, data, law—augmented rather than replaced).
 
-**Early career boost**: The contact‑center study and lab experiments show AI can **encode and spread best practices**, letting juniors perform closer to seniors sooner. That raises **productivity**—and sometimes wage **pressure**—but may also **compress career ladders** unless organizations redesign roles.
+**Early career boost**: The contact‑center study and lab experiments show AI can **encode and spread best practices**, letting juniors perform closer to seniors sooner. That raises **productivity**—and sometimes **wage pressure**—but may also **compress career ladders** unless organizations redesign roles.
 
 ---
 
